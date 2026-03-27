@@ -1,5 +1,4 @@
 Pharmaceutical Spending Analysis (Medicare Part D)
-Objective
 
 This project analyzes U.S. Medicare Part D prescription drug data to identify key drivers of pharmaceutical spending, including high-cost drugs, prescription volume trends, and geographic variation in spending.
 
